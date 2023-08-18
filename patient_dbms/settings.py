@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'patient_dbms',
     'AdminDash',
     'patientDash',
+    'phone_field',
 
 ]
 
